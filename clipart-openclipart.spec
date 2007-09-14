@@ -2,7 +2,7 @@
 
 Name: clipart-openclipart
 Version: 0.18
-Release: %mkrel 5
+Release: %mkrel 6
 Summary: Open Clip Art Library
 License: Public Domain
 Group: Graphics
@@ -24,11 +24,10 @@ range of software applications, including Inkscape, Adobe Illustrator,
 Batik, and more.
 
 The goal of the Open Clip Art Library is to provide the public with a
-huge collection of reusable art for any purpose
+huge collection of reusable art for any purpose.
 
 For more information, including how you can contribute to this growing
 library, please see http://www.openclipart.org/
-
 
 %prep
 %setup -q -n openclipart-%{version}-svgonly
