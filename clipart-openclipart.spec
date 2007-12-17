@@ -12,7 +12,6 @@ Source1: clean-up-sources.sh
 Buildarch: noarch
 BuildRequires: inkscape
 BuildRequires: urw-fonts
-BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 %description
 This is a collection of 100% license-free, royalty-free, and
