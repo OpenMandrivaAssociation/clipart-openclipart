@@ -2,7 +2,7 @@
 
 Name: clipart-openclipart
 Version: 0.18
-Release: %mkrel 8
+Release: %mkrel 9
 Summary: Open Clip Art Library
 License: Public Domain
 Group: Graphics
