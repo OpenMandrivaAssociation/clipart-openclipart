@@ -2,12 +2,12 @@
 
 Name: clipart-openclipart
 Version: 0.18
-Release: %mkrel 10
+Release: %mkrel 11
 Summary: Open Clip Art Library
 License: Public Domain
 Group: Graphics
 Url: http://www.openclipart.org/
-Source: http://www.openclipart.org/downloads/%version/openclipart-%{version}-svgonly.tar.bz2
+Source: http://www.openclipart.org/downloads/%version/openclipart-%{version}-svgonly.tar.lzma
 Source1: clean-up-sources.sh
 Buildarch: noarch
 BuildRequires: inkscape
