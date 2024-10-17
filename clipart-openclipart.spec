@@ -6,7 +6,7 @@ Release: %mkrel 13
 Summary: Open Clip Art Library
 License: Public Domain
 Group: Graphics
-Url: http://www.openclipart.org/
+Url: https://www.openclipart.org/
 Source: http://www.openclipart.org/downloads/%version/openclipart-%{version}-svgonly.tar.lzma
 Source1: clean-up-sources.sh
 Buildarch: noarch
